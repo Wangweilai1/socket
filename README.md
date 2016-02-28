@@ -1,2 +1,1 @@
-
-Chat programs use python
+C语言写的聊天程序，利用socket通信、多线程以及Windows API编写的全双工模式的聊天程序。
